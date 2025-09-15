@@ -1,0 +1,60 @@
+Origine;Type Projet;Catégorie projet;Type données;N° CONTRAT;Nom_projet;Etat Prise en charge;Organe;Filière;Avis Comité (date);Date signature contrat/convention;Date fin de contrat/projet;Type support;Date de début de saisie;Date de fin de saisie;année_contrat;delai_signature
+Externe;Academique;Cohorte;Retrospectif;53;ETUD-001;Valorisation;sein;Senologie;2024-04-19;2024-05-29;2024-10-03;eCRF;2024-06-23;2024-08-08;2024;58
+Externe;Academique;Cohorte;Retrospectif;54;ETUD-002;Analyse des données;colon-rectum;Digestif;2024-10-25;2024-12-24;2025-03-21;eCRF;2025-02-01;2025-02-23;2024;39
+Interne;Academique;Cohorte;Retrospectif;59;ETUD-003;Analyse des données;colon-rectum;Digestif;2024-12-26;2025-03-12;2025-07-21;eCRF;2025-06-06;2025-07-21;2024;94
+Externe;Academique;Cohorte;Retrospectif;60;ETUD-004;Echant bio;autre;NA;2022-09-30;2022-12-15;2023-06-27;eCRF;2023-03-01;2023-06-03;2022;73
+Externe;Academique;These;Retrospectif;63;ETUD-005;Echant bio;multi localisations;NA;2020-06-26;2020-08-21;2021-05-06;eCRF;2020-09-27;2021-01-31;2020;82
+Externe;Autre;Cohorte;Retrospectif;64;ETUD-006;Archivé;ovaire;Gyneco;2022-11-25;2022-12-27;2023-06-09;Excel;2023-03-11;2023-05-07;2022;17
+Interne;Academique;Cohorte;Retrospectif;68;ETUD-007;Analyse des données;sein;Senologie;2022-03-13;2022-03-19;2022-06-01;REDCap;2022-04-12;2022-05-05;2022;34
+Externe;Academique;Cohorte;Retrospectif;74;ETUD-008;Gestion des données;multi localisations;NA;2022-07-06;2022-08-28;2022-12-04;Excel;2022-08-29;2022-09-18;2022;38
+Externe;Academique;Cohorte;Retrospectif;81;ETUD-009;Analyse des données;colon-rectum;Digestif;2021-06-20;2021-09-04;2022-03-19;Excel;2021-11-19;2022-02-27;2021;62
+Externe;Autre;Cohorte;Retrospectif;84;ETUD-010;Analyse des données;gyneco;Gyneco;2021-11-13;2021-11-21;2022-05-17;eCRF;2022-02-16;2022-03-17;2021;24
+Externe;Academique;Cohorte;Retrospectif;87;ETUD-011;Echant bio;sein;Senologie;2020-02-12;2020-02-26;2020-07-10;REDCap;2020-05-02;2020-06-18;2020;31
+Externe;Autre;Cohorte;Retrospectif;90;ETUD-012;Cadrage;ovaire;Gyneco;2019-03-29;2019-03-12;2019-11-15;eCRF;2019-05-04;2019-08-25;2019;10
+Externe;Academique;Cohorte;Retrospectif;94;ETUD-013;Echant bio;prostate;Uro;2021-05-07;2021-06-12;2022-01-09;eCRF;2021-09-11;2021-11-18;2021;64
+Interne;Academique;Cohorte;Retrospectif;96;ETUD-014;Cadrage;poumon;Thorax;2022-04-29;2022-05-12;2023-01-15;REDCap;2022-07-17;2022-10-11;2022;5
+Externe;Academique;Cohorte;Retrospectif;99;ETUD-015;Gestion des données;gyneco;NA;2023-06-24;2023-07-05;2024-01-01;REDCap;2023-10-16;2023-11-07;2023;28
+Externe;Academique;These;Retrospectif;103;ETUD-016;Réglementaire;orl;ORL;2023-11-12;2023-12-12;2024-05-09;REDCap;2024-03-11;2024-04-10;2023;19
+Externe;Academique;Case report;Retrospectif;104;ETUD-017;Echant bio;ovaire;Gyneco;2024-07-06;2024-09-25;2025-03-30;REDCap;2024-11-14;2024-12-31;2024;83
+Externe;Academique;Cohorte;Retrospectif;106;ETUD-018;Gestion des données;gyneco;Gyneco;2019-08-23;2019-10-09;2020-03-23;REDCap;2019-12-22;2019-12-29;2019;63
+Interne;Academique;Cohorte;Retrospectif;110;ETUD-019;Archivé;multi localisations;NA;2024-06-14;2024-09-15;2024-12-28;REDCap;2024-09-13;2024-12-08;2024;59
+Interne;Academique;These;Retrospectif;112;ETUD-020;Valorisation;gyneco;Gyneco;2024-03-23;2024-05-19;2024-12-15;Excel;2024-06-15;2024-08-29;2024;41
+Interne;Academique;These;Retrospectif;113;ETUD-021;Valorisation;multi localisations;NA;2022-03-01;2022-03-29;2022-08-27;eCRF;2022-05-12;2022-06-12;2022;13
+Interne;Academique;Cohorte;Retrospectif;121;ETUD-022;Valorisation;multi localisations;NA;2022-11-11;2023-01-08;2023-05-28;REDCap;2023-02-12;2023-03-02;2022;92
+Interne;Academique;These;Retrospectif;122;ETUD-023;Cadrage;prostate;Uro;2019-12-04;2020-01-09;2020-08-03;Excel;2020-03-26;2020-07-06;2019;25
+Interne;Academique;These;Retrospectif;124;ETUD-024;Valorisation;multi localisations;NA;2023-05-06;2023-06-14;2024-01-11;REDCap;2023-08-02;2023-10-18;2023;51
+Interne;Academique;These;Retrospectif;127;ETUD-025;Cadrage;prostate;Uro;2024-07-14;2024-09-16;2025-04-26;eCRF;2024-11-20;2025-02-04;2024;33
+Interne;Academique;Cohorte;Retrospectif;128;ETUD-026;Valorisation;sein;Senologie;2020-07-22;2020-07-19;2020-11-21;eCRF;2020-08-21;2020-09-13;2020;22
+Interne;Academique;Cohorte;Retrospectif;129;ETUD-027;Echant bio;multi localisations;NA;2023-11-27;2023-12-03;2024-07-12;Excel;2024-01-11;2024-05-01;2023;1
+Externe;Academique;Cohorte;Retrospectif;135;ETUD-028;Réglementaire;orl;Thorax;2023-03-05;2023-04-08;2023-09-02;Excel;2023-05-21;2023-07-13;2023;44
+Interne;Academique;These;Retrospectif;137;ETUD-029;Réglementaire;gyneco;Gyneco;2021-12-27;2022-03-16;2022-07-16;REDCap;2022-05-19;2022-05-29;2021;98
+Interne;Academique;Cohorte;Retrospectif;160;ETUD-030;Gestion des données;colon-rectum;Digestif;2023-05-16;2023-08-12;2023-11-19;Excel;2023-09-11;2023-08-17;2023;93
+Interne;Academique;Cohorte;Retrospectif;164;ETUD-031;Archivé;colon-rectum;Digestif;2022-02-21;2022-04-08;2022-12-06;Excel;2022-08-11;2022-08-17;2022;69
+Interne;Academique;Cohorte;Retrospectif;166;ETUD-032;Cadrage;sein;Senologie;2025-01-23;2025-05-17;2025-08-07;REDCap;2025-06-15;2025-06-05;2025;100
+Interne;Academique;These;Retrospectif;169;ETUD-033;Valorisation;colon-rectum;Digestif;2020-10-22;2020-11-08;2021-01-20;REDCap;2020-11-25;2020-11-24;2020;2
+Interne;Academique;Cohorte;Retrospectif;170;ETUD-034;Gestion des données;sein;Senologie;2019-04-12;2019-07-31;2019-11-06;Excel;2019-07-20;2019-08-22;2019;79
+Externe;Academique;These;Retrospectif;173;ETUD-035;Analyse des données;orl;ORL;2020-01-31;2020-03-15;2020-07-28;REDCap;2020-05-30;2020-07-01;2020;12
+Externe;Academique;These;Retrospectif;174;ETUD-036;Archivé;sein;Senologie;2023-10-21;2023-11-18;2024-06-08;REDCap;2024-02-17;2024-03-20;2023;29
+Interne;Academique;Cohorte;Retrospectif;175;ETUD-037;Cadrage;colon-rectum;Digestif;2019-04-06;2019-07-07;2019-11-18;eCRF;2019-09-12;2019-11-14;2019;66
+Interne;Academique;These;Retrospectif;180;ETUD-038;Echant bio;autre;Thorax;2024-09-23;2024-12-04;2025-04-27;Excel;2025-01-24;2025-03-26;2024;57
+Interne;Academique;Cohorte;Retrospectif;183;ETUD-039;Archivé;multi localisations;NA;2023-02-21;2023-06-08;2023-11-01;Excel;2023-08-02;2023-09-03;2023;81
+Interne;Academique;These;Retrospectif;189;ETUD-040;Archivé;sein;Senologie;2024-05-22;2024-07-16;2024-12-18;eCRF;2024-07-17;2024-10-23;2024;72
+Interne;Academique;Cohorte;Retrospectif;193;ETUD-041;Valorisation;multi localisations;NA;2022-03-26;2022-06-19;2022-11-28;REDCap;2022-09-08;2022-11-23;2022;84
+Interne;Academique;Cohorte;Retrospectif;195;ETUD-042;Valorisation;sein;Senologie;2025-06-01;2025-05-20;2025-10-09;Excel;2025-06-13;2025-08-21;2025;6
+Externe;Academique;These;Retrospectif;197;ETUD-043;Echant bio;prostate;Uro;2022-10-05;2022-10-29;2023-01-22;Excel;2023-01-04;2023-01-17;2022;3
+Interne;Academique;Cohorte;Retrospectif;203;ETUD-044;Cadrage;sein;Senologie;2023-01-24;2023-03-07;2023-09-14;Excel;2023-04-21;2023-07-30;2023;60
+Interne;Academique;These;Retrospectif;206;ETUD-045;Gestion des données;colon-rectum;Digestif;2019-05-12;2019-08-08;2019-11-18;Excel;2019-07-29;2019-11-20;2019;85
+Interne;Academique;These;Retrospectif;223;ETUD-046;Analyse des données;gyneco;NA;2023-01-04;2023-01-18;2023-08-31;REDCap;2023-04-06;2023-05-29;2022;40
+Interne;Academique;These;Retrospectif;237;ETUD-047;Valorisation;sein;Senologie;2023-01-31;2023-03-17;2023-09-10;eCRF;2023-04-18;2023-07-05;2023;30
+Interne;Academique;These;Retrospectif;238;ETUD-048;Analyse des données;orl;ORL;2021-05-30;2021-07-12;2021-10-29;Excel;2021-09-16;2021-10-16;2021;71
+Externe;Academique;These;Retrospectif;242;ETUD-049;Archivé;colon-rectum;Digestif;2019-08-15;2019-10-19;2020-04-24;eCRF;2019-12-25;2020-04-04;2019;50
+Interne;Academique;These;Retrospectif;245;ETUD-050;Réglementaire;gyneco;Gyneco;2021-10-24;2022-02-06;2022-04-28;REDCap;2022-02-22;2022-05-24;2021;91
+Externe;Academique;Cohorte;Retrospectif;257;ETUD-051;Echant bio;sein;Senologie;2020-05-12;2020-06-21;2021-01-15;eCRF;2020-09-07;2020-10-25;2020;56
+Externe;Academique;These;Retrospectif;259;ETUD-052;Valorisation;colon-rectum;Digestif;2022-07-08;2022-07-17;2022-08-31;Excel;2022-07-19;2022-08-21;2022;26
+Interne;Academique;Cohorte;Retrospectif;264;ETUD-053;Analyse des données;autre;NA;2025-04-29;2025-05-27;2025-09-27;Excel;2025-06-19;2025-09-08;2025;55
+Externe;Academique;These;Retrospectif;271;ETUD-054;Archivé;colon-rectum;Digestif;2024-03-10;2024-04-29;2024-11-23;Excel;2024-08-21;2024-10-18;2024;78
+Interne;Academique;Cohorte;Retrospectif;274;ETUD-055;Analyse des données;multi localisations;NA;2022-02-05;2022-02-17;2022-11-06;eCRF;2022-04-13;2022-08-10;2022;4
+Interne;Academique;Cohorte;Retrospectif;278;ETUD-056;Cadrage;sein;Senologie;2021-10-01;2021-10-21;2022-04-13;eCRF;2022-01-03;2022-03-13;2021;37
+Interne;Academique;Cohorte;Retrospectif;282;ETUD-057;Cadrage;glioblastome;SNC;2023-11-08;2024-02-14;2024-06-23;eCRF;2024-02-16;2024-03-19;2023;87
+Interne;Academique;These;Retrospectif;285;ETUD-058;Réglementaire;sein;Senologie;2023-09-27;2023-12-30;2024-05-12;REDCap;2024-02-15;2024-03-18;2023;96
+Interne;Academique;These;Retrospectif;290;ETUD-059;Archivé;snc;SNC;2022-01-03;2022-01-08;2022-08-21;REDCap;2022-03-31;2022-05-16;2021;21

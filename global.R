@@ -1,5 +1,5 @@
 library(shiny)
 source("data.R")
+options(shiny.devmode = FALSE)
 server <- source("server.R")
 ui <- source("ui.R")
-

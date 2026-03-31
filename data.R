@@ -52,7 +52,11 @@ liste_choix_années <- append(
 
 liste_choix_intex <- c("Interne et externe", "Externe", "Interne")
 
-liste_choix_by <- c("Tout", "origine ", "type_donnees")
+liste_choix_by <- c(
+  "Tout" = "Tout",
+  "Origine" = "origine",
+  "Type de Données" = "type_donnees"
+)
 
 
 # SWIMMERPLOT -------------------------------------------------------

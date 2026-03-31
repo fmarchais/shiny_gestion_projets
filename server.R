@@ -241,7 +241,7 @@ server <- function(input, output) {
   })
 
   # Output gtsummary
-  output$my_gt_table <- render_gt({
+  output$gt_table <- render_gt({
     req(input$choix_année)
     my_gt_table()
   })
@@ -442,9 +442,9 @@ server <- function(input, output) {
       filter(annee_contrat %in% year_plot()[1]:year_plot()[2]) %>%
       filter(origine %in% my_filtre_plot()) %>%
       mutate(
-        Filière = case_when(
-          is.na(Filière) ~ "<manquant>",
-          TRUE ~ Filière
+        filiere = case_when(
+          is.na(filiere) ~ "<manquant>",
+          TRUE ~ filiere
         )
       )
   })
@@ -473,7 +473,7 @@ server <- function(input, output) {
       df_plot(),
       aes(
         fill = as.factor(annee_contrat),
-        x = Filière
+        x = filiere
       )
     ) +
       geom_bar(position = "dodge", stat = "count") +

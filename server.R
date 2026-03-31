@@ -221,7 +221,20 @@ server <- function(input, output) {
       if (input$choix_by != "Tout") {
         by = input$choix_by
       },
-      label = etat_prise_en_charge ~ "Etat de prise en charge",
+      label = list(
+        etat_prise_en_charge = "Etat de prise en charge",
+        origine = "Origine",
+        type_projet = "Type de projet",
+        categorie = "Catégorie",
+        type_donnees = "Type de données",
+        n_contrat = "N° de contrat",
+        filiere = "Filière",
+        avis_comite_date = "Avis du comité (date)",
+        type_support = "Type de support",
+        date_debut_saisie = "Date de début de saisie",
+        date_fin_saisie = "Date de fin de saisie",
+        delai_signature = "Délai de signature (jours)"
+      ),
       sort = all_categorical() ~ "frequency",
       missing = "ifany",
       missing_text = "<manquant>",
